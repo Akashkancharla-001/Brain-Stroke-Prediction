@@ -1,1 +1,1 @@
-# Brain-Stroke-Prediction
+# Brain-Stroke-analysis
